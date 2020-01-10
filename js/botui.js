@@ -25,20 +25,20 @@ function bot_ui_ini() {
         content: "Hi, there👋"
     }).then(function () {
         botui.message.add({
-            delay: 1100,
-            content: "这里是 Mashiro"
+            delay: 1000,
+            content: "这里是 chen"
         }).then(function () {
             botui.message.add({
-                delay: 1100,
-                content: "一个可爱的蓝孩子~"
+                delay: 1600,
+                content: "一个虽然很菜但热衷于coding的蓝孩子"
             }).then(function () {
                 botui.action.button({
-                    delay: 1600,
+                    delay: 1000,
                     action: [{
                         text: "然后呢？ 😃",
                         value: "sure"
                     }, {
-                        text: "少废话！ 🙄",
+                        text: "关我叼事！ 🙄",
                         value: "skip"
                     }]
                 }).then(function (a) {
@@ -58,39 +58,39 @@ function bot_ui_ini() {
         },
         end = function () {
             botui.message.add({
-                delay: 600,
+                delay: 800,
                 content: "![...](https://view.moezx.cc/images/2018/05/06/a1c4cd0452528b572af37952489372b6.md.jpg)"
             })
         },
         secondpart = function () {
             botui.message.add({
                 delay: 1500,
-                content: "目前就读于上海财经大学"
+                content: "但我的专业却是生命科学"
             }).then(function () {
                 botui.message.add({
-                    delay: 1500,
-                    content: "向往技术却误入商科，但后来喜欢上了经济学…"
+                    delay: 2000,
+                    content: "向往技术却误入生科，自能在网络上自学编程…"
                 }).then(function () {
                     botui.message.add({
-                        delay: 1200,
-                        content: "因为数据分析也需要Coder嘛"
+                        delay: 2100,
+                        content: "即使是在专业课上也会思考算法，并深深叹息真是个毒瘤啊"
                     }).then(function () {
                         botui.message.add({
-                            delay: 1500,
-                            content: "主攻 R 语言和 Python，略懂 STATA，偶尔也折腾 HTML/CSS/JavaScript/PHP"
+                            delay: 2100,
+                            content: "喜欢C++（C++是最好的编程语言！），刚入坑 Qt，偶尔也折腾 Java/HTML/CSS"
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
-                                content: "研究的方向，是经济/金融方向的数据分析（data science）以及机器学习（machine learning）"
+                                content: "虽然我承认有时候会觉得很枯燥无味"
                             }).then(function () {
                                 botui.message.add({
-                                    delay: 1800,
-                                    content: "喜欢画画，希望有一天能够被称为画师"
+                                    delay: 1200,
+                                    content: "但我却一直告诉自己要坚持下去"
                                 }).then(function () {
                                     botui.action.button({
                                         delay: 1100,
                                         action: [{
-                                            text: "为什么叫Mashiro呢？ 🤔",
+                                            text: "为什么呢？ 🤔",
                                             value: "why-mashiro"
                                         }]
                                     }).then(function (a) {
@@ -105,13 +105,13 @@ function bot_ui_ini() {
         },
         thirdpart = function () {
             botui.message.add({
-                delay: 1E3,
-                content: "Mashiro以及站名都来自一部动画，因为和主角有一样的爱好~ 如果有兴趣可以找找首页上的视频~"
+                delay: 1500,
+                content: "因为我也有梦想啊！总要为之付出努力吧"
             }).then(function () {
                 botui.action.button({
-                    delay: 1500,
+                    delay: 1200,
                     action: [{
-                        text: "为什么是白猫呢？ 🤔",
+                        text: "那你的梦想是什么呢？ 🤔",
                         value: "why-cat"
                     }]
                 }).then(function (a) {
@@ -121,12 +121,12 @@ function bot_ui_ini() {
         },
         fourthpart = function () {
             botui.message.add({
-                delay: 1E3,
-                content: "因为对GitHub有种执念… "
+                delay: 1800,
+                content: "我只希望有一天能做出一款属于自己的游戏"
             }).then(function () {
                 botui.message.add({
-                    delay: 1100,
-                    content: "而且我真的是猫控！"
+                    delay: 1200,
+                    content: "我是认真的！"
                 }).then(function () {
                     botui.action.button({
                         delay: 1500,
@@ -142,8 +142,8 @@ function bot_ui_ini() {
         },
         fifthpart = function () {
             botui.message.add({
-                delay: 1E3,
-                content: "emmmm，看备案信息你就知道了=.= 本来想要zheng.xin的，但50万真买不起。。"
+                delay: 1800,
+                content: "告诉自己还是个菜鸟，想为成为top就再努力一点"
             }).then(function () {
                 botui.message.add({
                     delay: 1600,
