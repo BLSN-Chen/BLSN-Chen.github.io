@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://juruoer.top/"/>
-  <updated>2020-01-08T13:29:48.209Z</updated>
+  <updated>2020-01-11T05:48:49.101Z</updated>
   <id>http://juruoer.top/</id>
   
   <author>
@@ -17,15 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>newpapername</title>
-    <link href="http://juruoer.top/2020-01-08-newpapername/"/>
-    <id>http://juruoer.top/2020-01-08-newpapername/</id>
-    <published>2020-01-08T13:29:48.000Z</published>
-    <updated>2020-01-08T13:29:48.209Z</updated>
+    <title>测试</title>
+    <link href="http://juruoer.top/2020-01-10-newpapername/"/>
+    <id>http://juruoer.top/2020-01-10-newpapername/</id>
+    <published>2020-01-10T14:16:01.000Z</published>
+    <updated>2020-01-11T05:48:49.101Z</updated>
     
     <summary type="html">
     
+      测试文本
+    
     </summary>
+    
+      <category term="技术" scheme="http://juruoer.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
@@ -35,7 +39,7 @@
     <link href="http://juruoer.top/2020-01-08-hello-world/"/>
     <id>http://juruoer.top/2020-01-08-hello-world/</id>
     <published>2020-01-08T10:20:03.289Z</published>
-    <updated>2020-01-08T10:20:03.289Z</updated>
+    <updated>2020-01-11T04:17:15.061Z</updated>
     
     <summary type="html">
     
@@ -49,6 +53,34 @@
     
     </summary>
     
+      <category term="测试" scheme="http://juruoer.top/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="http://juruoer.top/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="图集" scheme="http://juruoer.top/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="http://juruoer.top/2018-12-12-Hexo-Theme-Sakura/"/>
+    <id>http://juruoer.top/2018-12-12-Hexo-Theme-Sakura/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2019-11-15T17:29:48.000Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="http://juruoer.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="http://juruoer.top/tags/web/"/>
+    
+      <category term="悦读" scheme="http://juruoer.top/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
