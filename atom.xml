@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://juruoer.top/"/>
-  <updated>2020-01-11T04:17:15.061Z</updated>
+  <updated>2020-01-12T09:38:08.029Z</updated>
   <id>http://juruoer.top/</id>
   
   <author>
@@ -17,30 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://juruoer.top/2020-01-08-hello-world/"/>
-    <id>http://juruoer.top/2020-01-08-hello-world/</id>
-    <published>2020-01-08T10:20:03.289Z</published>
-    <updated>2020-01-11T04:17:15.061Z</updated>
+    <title>博客搭好啦</title>
+    <link href="http://juruoer.top/2020-01-12-blog/"/>
+    <id>http://juruoer.top/2020-01-12-blog/</id>
+    <published>2020-01-12T05:25:25.741Z</published>
+    <updated>2020-01-12T09:38:08.029Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      博客搭好啦
     
     </summary>
     
-      <category term="测试" scheme="http://juruoer.top/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="生活" scheme="http://juruoer.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="测试" scheme="http://juruoer.top/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="blog" scheme="http://juruoer.top/tags/blog/"/>
     
-      <category term="图集" scheme="http://juruoer.top/tags/%E5%9B%BE%E9%9B%86/"/>
+      <category term="悦读" scheme="http://juruoer.top/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
